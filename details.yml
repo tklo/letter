@@ -1,10 +1,11 @@
 ---
 # subject: My life as a soldier
-author: F. Nietzsche
-city: Naumburg
+author: "Tomasz Klosinski"
+city: "Ferney-Voltaire"
 from:
-- Artillerieregiment, 8. Batt.
-- Nordstraße 15, Naumburg
+- "16 Avenue du Jura"
+- "01210 Ferney-Voltaire"
+- "France"
 to:
 - Carl Freiherr von Gersdorff
 - Stresow-Kaserne I
@@ -12,9 +13,9 @@ to:
 - 13597 Spandau
 
 # Settings
-mainfont: Hoefler Text
-altfont: Helvetica Neue
-monofont: Courier
+mainfont: "Linux Libertine O"
+altfont: "Liberation Sans"
+monofont: "Courier New"
 lang: english
 fontsize: 10pt
 geometry: a4paper, left=35mm, right=35mm, top=50mm, bottom=25mm

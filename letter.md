@@ -1,13 +1,13 @@
-Dear Friend,
+Dear Sir or Madam,
 
-I am a bombardier in the second mounted division of the Fourth Horse Artillery.
+My main motivation of this application is the the desire of self-improvement as an entrepreneur and a professional DevOps engineer. I am also very excited about the prospects of working in the international environment.
 
-You may well imagine how astonished I was by this revolution in my affairs, and what a violent upheaval it has made in my everyday humdrum existence. Nevertheless I have borne the change with determination and courage, and even derive a certain pleasure from this turn of fortune. Now that I have an opportunity of doing a little athletic training I am more than ever thankful to our Schopenhauer. For the first five weeks I had to be in the stables. At 5:30 in the morning I had to be among the horses, removing the manure and grooming the animals down with the currycomb and horse brush. For the present my work lasts on an average from 7 a.m. to 10 a.m. and from 11.30 a.m. to 6 p.m., the greater part of which I spend in parade drill. Four times a week we two soldiers who are to serve for a year have to attend a lecture given by a lieutenant, to prepare us for the reserve officers examination. You must know that in the horse artillery there is a tremendous amount to learn. We get most fun out of the riding lessons. My horse is a very fine animal, and I am supposed to have some talent for riding. When I and my steed gallop round the large parade ground, I feel very contented with my lot. On the whole, too, I am very well treated. Above all, we have a very nice captain.
+I am interested in the modern IT, especially Linux and automation and configuration management technologies. I am a passionate Linux desktop user for over 13 years. I have had experience with Java, C++ and Python programming languages during the course of my studies and my professional career.
+I am especially fascinated in the notion of DevOps and configuration management. I already had an opportunity to work in the capacity of System Engineer responsible for a set of modern technology Proof of Concept projects. This included evaluating cloud computing technologies (OpenStack, Eucalyptus, OpenNebula), infrastructure configuration management (Chef) and big data (Cloudera Hadoop). On this position For over two years I have been a member of Scrum-powered Java development team focused on Machine 2 Machine (Internet of Things), Cloud Computing and Big Data.
 
-I have now told you all about my life as a soldier. This is the reason why I have kept you waiting so long for news and for an answer to your last letter. Meanwhile, if I am not mistaken, you will probably have been freed from your military fetters; that is why I thought it would be best to address this letter to Spandau.
+My third job (Linux Polska) has given me a possibility of designing and developing Jenkins-based automation workflow for massive RPM packages building. The system was used by the company to create their own Scientific Linux clone adjusted to their internal needs.
 
-But my time is already up; a business letter to Volkmann and another to Ritschl have robbed me of much of it. So I must stop in order to get ready for the parade in full kit.
+Finally, my current position is a System Engineer in two CERN Control Center’s teams: DevOps and Infrastructure. In the first team I have been working mostly on maintenance of Elasticsearch-Kibana-Logalike cluster (Logalike is CERN’s version of Logstash). In the Infrastructure team along with my daily support and troubleshooting tasks, I have been involved in numerous activities in System Administration Modernisation project. My responsibilities in the project have been mostly related to the transformation of an old bash/awk/Python script-based configuration management to a modern Ansible-based solution. I have worked also on support of critical servers for the operation of accelerators.
 
-Well, old man, forgive my long neglect, and hold the god of War responsible for most of it.
 
-Your devoted friend,
+Thank you for your consideration,
