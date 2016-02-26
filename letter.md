@@ -1,6 +1,6 @@
 Dear Sir or Madam,
 
-My main motivation of this application is the the desire of self-improvement as an entrepreneur and a professional DevOps engineer. I am also very excited about the prospects of working in the international environment.
+My main motivation of this application is the the desire of self-improvement as an entrepreneur and a professional DevOps engineer. I am also very excited about the prospects of working in the international environment. I have been studing in multi-national groups for over 3 years in Poland and I have worked in multi-national international organization for over a year.
 
 I am interested in the modern IT, especially Linux and automation and configuration management technologies. I am a passionate Linux desktop user for over 13 years. I have had experience with Java, C++ and Python programming languages during the course of my studies and my professional career.
 I am especially fascinated in the notion of DevOps and configuration management. I already had an opportunity to work in the capacity of System Engineer responsible for a set of modern technology Proof of Concept projects. This included evaluating cloud computing technologies (OpenStack, Eucalyptus, OpenNebula), infrastructure configuration management (Chef) and big data (Cloudera Hadoop). On this position For over two years I have been a member of Scrum-powered Java development team focused on Machine 2 Machine (Internet of Things), Cloud Computing and Big Data.
