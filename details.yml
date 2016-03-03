@@ -18,6 +18,6 @@ altfont: "Liberation Sans"
 monofont: "Bitstream Vera Sans Mono"
 lang: english
 fontsize: 10pt
-geometry: a4paper, left=35mm, right=35mm, top=35mm, bottom=25mm
+geometry: a4paper, left=35mm, right=35mm, top=15mm, bottom=15mm
 # letterhead: true
 ---
