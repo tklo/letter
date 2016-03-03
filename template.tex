@@ -78,11 +78,12 @@ $endif$
 }
 
 % To display custom date in the example
-% \usepackage[nodayofweek]{datetime}
-% \newdate{date}{01}{12}{1867}
-% \date{\displaydate{date}}
+%\newdate{date}{01}{12}{1867}
+%\date{\displaydate{date}}
 % Use this instead of \today
-% \displaydate{date}
+%\displaydate{date}
+
+\usepackage[UKenglish]{isodate}
 
 % DOCUMENT
 %--------------------------------
@@ -100,7 +101,7 @@ $endfor$
 %$to$\\
 %$endfor$
 
-\vspace{3em}
+%\vspace{3em}
 
 \rmfamily
 \begin{flushright}
@@ -118,7 +119,7 @@ $endif$
 $body$
 
 \begin{FlushRight}
-%  \includegraphics[height=5.5\baselineskip]{signature.pdf} \par
+  \includegraphics[height=5.5\baselineskip]{signature.pdf} \par
   $author$
 \end{FlushRight}
 

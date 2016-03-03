@@ -15,9 +15,9 @@ to:
 # Settings
 mainfont: "Linux Libertine O"
 altfont: "Liberation Sans"
-monofont: "Courier New"
+monofont: "Bitstream Vera Sans Mono"
 lang: english
 fontsize: 10pt
-geometry: a4paper, left=35mm, right=35mm, top=50mm, bottom=25mm
+geometry: a4paper, left=35mm, right=35mm, top=35mm, bottom=25mm
 # letterhead: true
 ---
